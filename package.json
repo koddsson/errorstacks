@@ -1,6 +1,6 @@
 {
 	"name": "@koddsson/errorstacks",
-	"version": "2.4.0",
+	"version": "2.4.1",
 	"description": "Parse error stack traces",
 	"main": "dist/cjs/index.js",
 	"module": "dist/esm/index.js",
@@ -14,9 +14,9 @@
 		"./package.json": "./package.json",
 		"./": "./"
 	},
-  "engines": {
-    "node": ">=18.0"
-  },
+	"engines": {
+		"node": ">=18.0"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/marvinhagemeister/errorstacks.git"
